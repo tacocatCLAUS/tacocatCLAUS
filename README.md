@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://sites.google.com/view/claus"><img src="https://img.shields.io/badge/My-Website-blue?style=for-the-badge&logo=" alt="Run on Repl.it"></a>
+  <a href="https://www.buymeacoffee.com/1CLAUS"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="buy me a coffe"></a> 
+  <a href="https://www.canva.com/design/DAFeQx3bpLQ/ImO8_gIUn98NGirHIvrTqQ/watch?utm_content=DAFeQx3bpLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Watch-Trailer-red?style=for-the-badge&logo=" alt="Run on Repl.it"></a>
 </p>
 
 <div>
@@ -14,4 +16,3 @@
 </div>
 
 
-<a href="https://www.canva.com/design/DAFeQx3bpLQ/ImO8_gIUn98NGirHIvrTqQ/watch?utm_content=DAFeQx3bpLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Watch-Trailer-red?style=for-the-badge&logo=" alt="Run on Repl.it"></a>
