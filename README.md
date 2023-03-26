@@ -8,6 +8,9 @@
   <a href="https://www.canva.com/design/DAFeQx3bpLQ/ImO8_gIUn98NGirHIvrTqQ/watch?utm_content=DAFeQx3bpLQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"><img src="https://img.shields.io/badge/Watch-Trailer-red?style=for-the-badge&logo=" alt="Run on Repl.it"></a>
 </p>
 
+<p align="center">
+  <a href="https://user-images.githubusercontent.com/116687416/227782657-05170c34-0386-4d8d-b6c5-57460f5f2fab.png"><img src="https://img.shields.io/badge/My-Profile%20Picture-brightgreen" alt="Run on Repl.it"></a>
+
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacocatCLAUS&hide=&theme=tokyonight">
   <p>Welcome to my githup profile I currently have ported a couple of my replit projects to here for forking.
