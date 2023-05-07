@@ -13,9 +13,9 @@
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacocatCLAUS&hide=&theme=tokyonight">
-  <p>Welcome to my githup profile I currently have ported a couple of my replit projects to here for forking.
+  <p>Welcome to my githup profile. My name is CLAUS and I am a frontend developer. Currently have ported a couple of my replit projects to here for forking.
   My biggest project so far has been Beargle os check it out. I am constantly making more projects. Check out my website with the button above.
   My most used programming languages are to the left.</p>
-</div>
+</div> 
 
 
